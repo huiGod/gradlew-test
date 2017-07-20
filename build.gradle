@@ -16,4 +16,5 @@ dependencies {
 
 task wrapper(type: wrapper){
     gradleVersion = '3.4'
+    distributionType = 'all'
 }
